@@ -1,6 +1,6 @@
 {
-  "name": "react-virtuoso",
-  "author": "Petyo Ivanov",
+  "name": "@zebieksts/react-virtuoso",
+  "author": "Zebieksts",
   "sideEffects": false,
   "version": "0.0.0-development",
   "homepage": "https://virtuoso.dev/",
