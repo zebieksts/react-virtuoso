@@ -81,6 +81,7 @@ function getChangedChildSizes(children: HTMLCollection, itemSize: SizeFunction, 
 
     if (size === 0) {
       log('Zero-sized element, this should not happen', { child }, LogLevel.ERROR)
+      continue
     }
 
     if (size === knownSize) {
